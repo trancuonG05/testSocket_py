@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cuong\\OneDrive\\Documents\\MMT\\Socket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3A13B4-99D3-4D46-AAFC-A0ADA7693050}|Socket1\\Socket1.pyproj|C:\\Users\\cuong\\OneDrive\\Documents\\MMT\\Socket\\Socket1\\Sever1.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7D3A13B4-99D3-4D46-AAFC-A0ADA7693050}|Socket1\\Socket1.pyproj|solutionrelative:Socket1\\Sever1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3A13B4-99D3-4D46-AAFC-A0ADA7693050}|Socket1\\Socket1.pyproj|C:\\Users\\cuong\\OneDrive\\Documents\\MMT\\Socket\\Socket1\\Socket1.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7D3A13B4-99D3-4D46-AAFC-A0ADA7693050}|Socket1\\Socket1.pyproj|solutionrelative:Socket1\\Socket1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sever1.py",
+              "DocumentMoniker": "C:\\Users\\cuong\\OneDrive\\Documents\\MMT\\Socket\\Socket1\\Sever1.py",
+              "RelativeDocumentMoniker": "Socket1\\Sever1.py",
+              "ToolTip": "C:\\Users\\cuong\\OneDrive\\Documents\\MMT\\Socket\\Socket1\\Sever1.py",
+              "RelativeToolTip": "Socket1\\Sever1.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-13T14:21:48.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Socket1.py",
+              "DocumentMoniker": "C:\\Users\\cuong\\OneDrive\\Documents\\MMT\\Socket\\Socket1\\Socket1.py",
+              "RelativeDocumentMoniker": "Socket1\\Socket1.py",
+              "ToolTip": "C:\\Users\\cuong\\OneDrive\\Documents\\MMT\\Socket\\Socket1\\Socket1.py",
+              "RelativeToolTip": "Socket1\\Socket1.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-10T12:04:43.258Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
